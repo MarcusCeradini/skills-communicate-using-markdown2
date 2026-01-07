@@ -4,7 +4,7 @@
 
 short, meaningful commit message
 
-<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/2f388114-d603-4c37-8ade-e1be02c7d4b0" />
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` javascript
 var myVar = "Hello, world!";
@@ -13,3 +13,4 @@ var myVar = "Hello, world!";
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
